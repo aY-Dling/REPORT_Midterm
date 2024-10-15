@@ -18,3 +18,4 @@
 from google.colab import drive
 drive.mount('/content/gdrive/')
 按照提示进行验证，结果如下：
+![截圖03](https://github.com/aY-Dling/REPORT_Midterm/blob/main/%E6%88%AA%E5%9C%9603.png?raw=true)

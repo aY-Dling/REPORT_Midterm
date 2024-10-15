@@ -33,3 +33,11 @@ kaggle数据下载：
 
 !kaggle competitions list
 ![截圖04](https://github.com/aY-Dling/REPORT_Midterm/blob/main/%E6%88%AA%E5%9C%9604.png?raw=true)
+下载数据集：
+
+!kaggle datasets download -d paultimothymooney/kermany2018
+![截圖05](https://github.com/aY-Dling/REPORT_Midterm/blob/main/%E6%88%AA%E5%9C%9605.png?raw=true)
+解压文件：
+
+!unzip "/content/kermany2018.zip"
+![截圖06](https://github.com/aY-Dling/REPORT_Midterm/blob/main/%E6%88%AA%E5%9C%9606.png?raw=true)

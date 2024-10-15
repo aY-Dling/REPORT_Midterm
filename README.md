@@ -3,4 +3,4 @@
 
 11124208王品雯、11124209蔡岱伶
 ## 數據集介紹
-![截圖01]()
+![截圖01](https://github.com/aY-Dling/REPORT_Midterm/blob/main/%E6%88%AA%E5%9C%9601.png?raw=true)

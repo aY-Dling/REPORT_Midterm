@@ -41,3 +41,7 @@ kaggle数据下载：
 
 !unzip "/content/kermany2018.zip"
 ![截圖06](https://github.com/aY-Dling/REPORT_Midterm/blob/main/%E6%88%AA%E5%9C%9606.png?raw=true)
+将文件解压至google云盘：
+
+!unzip "/content/OCT2017.zip" -d "/content/gdrive/My Drive"
+![截圖07](https://github.com/aY-Dling/REPORT_Midterm/blob/main/%E6%88%AA%E5%9C%9607.png?raw=true)

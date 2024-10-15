@@ -19,3 +19,17 @@ from google.colab import drive
 drive.mount('/content/gdrive/')
 按照提示进行验证，结果如下：
 ![截圖03](https://github.com/aY-Dling/REPORT_Midterm/blob/main/%E6%88%AA%E5%9C%9603.png?raw=true)
+kaggle数据下载：
+
+创建kaggle账户并下载kaggle.json文件。创建账户这里就不介绍了，创建完账户后在“我的账户”-“API”中选择“CREATE NEW API TOKEN”，然后下载kaggle.json文件。
+
+创建kaggle文件夹：
+
+!mkdir -p ~/.kaggle
+将kaggle.json文件夹复制到指定文件夹：
+
+!cp /content/gdrive/My\ Drive/kaggle.json ~/.kaggle/
+测试是否成功：
+
+!kaggle competitions list
+![截圖04](https://github.com/aY-Dling/REPORT_Midterm/blob/main/%E6%88%AA%E5%9C%9604.png?raw=true)
